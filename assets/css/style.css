@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(90deg, #0c5e18 10%, #c0622c 60%, red 75%);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    width: 50%;
+    padding: 20px 20px;
+    
+}
+
+form{
+    padding: 5px 5px 5px 5px;
+    border:2px solid rgb(133, 133, 135);
+}
+.checkbox{
+    font-family: Impact, 'Arial Narrow Bold';
+}
+#valorPlato{
+    font-family: Impact, 'Arial Narrow Bold';
+}
+img{
+    align-items: end;
+    width: 20%;
+    border-radius: 100px;
+}
