@@ -51,7 +51,6 @@ function verificarCheck(elemento){
         elParrafoCostoNuevo.innerText = costoBebidaSeleccionada;
         laCuentaPrecio.appendChild(elParrafoCostoNuevo);
         
-
     }
     else{
         // identificar el id del producto des-seleccionado
